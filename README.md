@@ -1,7 +1,5 @@
 # e-Hotels Application
 
-A web-based hotel booking system based on Deliverable 1 by Mouad Ben lahbib (300259705).
-
 ## Features
 
 - User-friendly interface for searching and booking hotel rooms
@@ -106,9 +104,6 @@ A web-based hotel booking system based on Deliverable 1 by Mouad Ben lahbib (300
 - The application uses sessions to manage user login state.
 - Error messages should appear at the top of the page if issues occur.
 - Database errors are logged to the PHP error log.
-
-## Contributors
-- Mouad Ben lahbib (300259705)
 
 ## Disclaimer
 This application is based on a database design project by Mouad.
